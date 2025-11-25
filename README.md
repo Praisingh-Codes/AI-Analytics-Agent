@@ -1,4 +1,4 @@
-#### Project Overview – DataPulse: AI Analytics Agent
+#### Project Overview – DataPulse: AI-Powered Analytics Agent for Small Business Reports
 
 <div align="justify">DataPulse is an intelligent multi-agent analytics system designed to turn raw CSV business data into automated KPIs, insights and executive-ready reports.
 
