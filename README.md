@@ -1,6 +1,6 @@
 #### Project Overview – DataPulse: AI Analytics Agent
 
-<div align="justify">DataPulse is an intelligent multi-agent analytics system designed to turn raw CSV business data into automated KPIs, insights, and executive-ready reports.
+<div align="justify">DataPulse is an intelligent multi-agent analytics system designed to turn raw CSV business data into automated KPIs, insights and executive-ready reports.
 
 This agent processes sales/retail datasets, detects schema automatically, computes financial KPIs and generates narrative summaries using Google Gemini (with automatic fallback to offline reporting when no model is available).</div>
 
@@ -35,7 +35,7 @@ DataPulse AI Analytics Agent automates the entire workflow:
 
 ✔ Automatically loads CSVs (with encoding fallback)
 
-✔ Detects schema, data types, missing values, and sample rows
+✔ Detects schema, data types, missing values and sample rows
 
 ✔ Computes key financial KPIs:
 
@@ -51,7 +51,7 @@ DataPulse AI Analytics Agent automates the entire workflow:
 
 - Top 5 Products
 
-✔ Auto-detects columns — no strict schema required
+✔ Auto-detects columns no strict schema required
 
 Revenue-like columns (sales, amount, total, price)
 
@@ -170,6 +170,7 @@ CSV is ingested with auto-detected encoding.
 3️⃣Compute KPIs
 
 Auto-detected revenue and cost → profit calculations
+
 Plus Top 5 products based on revenue.
 
 4️⃣Generate Narrative
